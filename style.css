@@ -220,3 +220,58 @@ a.related-link {
     line-height: 20px;
     padding: 3px 0;
 }
+
+.footer {
+    padding: 0 0 0 150px;
+}
+
+.pagination-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.pagination-wrapper {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 35px 0;
+}
+
+.page-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 14px;
+    text-align: center;
+    border: none;
+    padding: 0px;
+    color: #1A73E8;
+}
+
+.google-o {
+    margin: 9px 0 12px 0;
+}
+
+.next-carat {
+    margin: 12px 0 16px 0;
+}
+
+.bottom-footer {
+    padding: 0 0 0 150px;
+    border-top: 1px solid #e4e4e4;
+    background-color: #f2f2f2;
+}
+
+.bottom-links-wrapper {
+    display: flex;
+}
+
+.bottom-link {
+    color: #5f6368;
+    padding: 18px 30px 15px 0;
+    font-size: 14px;
+    border: none;
+    background: transparent;
+}
